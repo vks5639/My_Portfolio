@@ -1,6 +1,6 @@
-# Pavel Liaoshka - Data Analysis portfolio
+# Vikash Kumar Singh - Data Analysis portfolio
 ## About me
-Hello everyone! My name is Pavel, and this is my portfolio.<br>
+Hello everyone! My name is Vikash, and this is my portfolio.<br>
 I love investigating different types of data, discovering insights, and representing it with beautiful visuals.<br>
 I have a background in digital marketing and financial data analysis.<br>
 
