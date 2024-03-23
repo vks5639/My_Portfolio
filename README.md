@@ -4,7 +4,7 @@ Hello everyone! My name is Vikash, and this is my portfolio.<br>
 I love investigating different types of data, discovering insights, and representing it with beautiful visuals.<br>
 I have a background in digital marketing and financial data analysis.<br>
 
-You can see more information in my [**CV**](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Data%20Analyst%20CV.pdf).
+You can see more information in my [**CV**](https://github.com/vks5639/My_Portfolio/blob/main/Vikash_Resume.pdf).
 
 This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
 ## Contents
