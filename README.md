@@ -89,19 +89,14 @@ This section contains a list of projects with brief descriptions.
 **Skills:** Bash, Apache Airflow, Kafka <br> 
 **Status:** Completed in 2022
 ## Certificates
-* [Google Data Analytics Certificate](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Google%20Data%20Data%20Analytics.pdf) - Coursera, 2022
-* [IBM Data Analysis with Python](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/IBM%20data%20analysis%20Python.pdf) - Coursera, 2022
-* [Mastering Data Analysis with Pandas](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Data%20analysis%20with%20Pandas.pdf) - Coursera, 2022
-* [Python Data Analysis](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Linkedin%20Learning%20Python%20Data%20Analysis.pdf) - Linkedin Learning, 2022
-* [Excel Data Analysis](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Linkedin%20Learning%20Excel%20Data%20Analysis.pdf) - Linkedin Learning, 2022
-* [ETL and Data Pipelines with Shell, Airflow and Kafka](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka.pdf) - Coursera, 2022
-* [Intermediate SQL: Data Reporting and Analysis](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Intermediate%20SQL%20Data%20Reporting%20and%20Analysis.pdf) - Linkedin Learning, 2022
-* [Prepare, Clean, Transform, and Load Data using Power BI](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Coursera%20Prepare%2C%20Clean%2C%20Transform%2C%20and%20Load%20Data%20using%20Power%20BI.pdf) - Coursera, 2022
-* [Excel: Working Together with Power Query and Power Pivot](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Certificate%20Excel%20Working%20Together%20with%20Power%20Query%20and%20Power%20Pivot.pdf) - Linkedin Learning, 2022
-* [Business Benefits Realization Foundations](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Certificate%20Business%20Benefits%20Realization%20Foundations.pdf) - Linkedin Learning, 2023
-* [Business Analyst and Project Manager Collaboration](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Certificate%20Business%20Analyst%20and%20Project%20Manager%20Collaboration.pdf) - Linkedin Learning, 2023
-* [Business Analysis Foundations](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Certificate%20Business%20Analysis%20Foundations.pdf) - Linkedin Learning, 2023
-* [Agile Requirements Foundations](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Certificate%20Agile%20Requirements%20Foundations.pdf) - Linkedin Learning, 2023
+* [Tableau for Data Scientists](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/CertificateOfCompletion_Tableau%20for%20Data%20Scientists.pdf) - Linkedin Learning
+* [Querying Databases with SQL and Python](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Vikash-Kumar-Singh--Querying-Databases-with-SQL-and-Python.pdf) - Dataquest
+* [Introduction to Data Analysis in Excel](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Vikash-Kumar-Singh--Introduction-to-Data-Analysis-in-Excel.pdf) - Dataquest
+* [Preparing Data in Excel](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Vikash-Kumar-Singh--Preparing-Data-in-Excel.pdf) - Dataquest
+* [Registered Product Owner](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Registered%20Product%20Owner-3988192.pdf) - Scrum Inc.
+* [Agile Developer](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Agile%20Developer.pdf) - Infosys
+* [Python Associate.pdf](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Python%20Associate.pdf) - Infosys
+* [Selenium Advance Tester](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Selenium%20Advance%20Tester.pdf) - Infosys
 
 ## Contacts
 * Linkedin: https://www.linkedin.com/in/vikash-ks/
