@@ -26,6 +26,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 * [Certificates](#certificates)
 * [Contacts](#contacts)
+
 ## Portfolio Projects
 This section contains a list of projects with brief descriptions.
 ### Analyzing COVID RNA Sequences
@@ -42,15 +43,15 @@ This section contains a list of projects with brief descriptions.
 **Original dataset:** [Metro_Interstate_Traffic_Volume](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/Metro_Interstate_Traffic_Volume.csv) <br>
 **Skills:** analytical thinking, data cleaning, data analysis, data vizualization.<br>
 **Hard skills:** Excel, Pivot Tables, Formulas, Functions, Charts, Dashboards, Slices, Pivot Charts.<br>
-**Results:** In this project, our aim was to identify indicators of heavy traffic on the I-94 Interstate highway. Through our analysis, we identified two main types of indicators:
-   **Time Indicators:**
-   Traffic tends to be heavier during warm months (March–October) in contrast to cold months (November–February).
-   Heavy traffic is typically observed on business days compared to weekends.
-   Rush hours on business days usually occur around 7 AM and 4 PM.
-   **Weather Indicators:**
-   Heavy traffic is associated with specific weather conditions, including shower snow, light rain, and snow, and proximity thunderstorms with drizzle.
-   These findings provide valuable insights into the factors influencing traffic patterns on the I-94 Interstate highway.
-   Understanding these indicators can aid in traffic management and infrastructure planning to improve overall transportation efficiency and safety. <be>
+**Results:** In this project, my aim was to identify indicators of heavy traffic on the I-94 Interstate highway. Through the analysis, I identified two main types of indicators:
+* Time Indicators:
+   * Traffic tends to be heavier during warm months (March–October) in contrast to cold months (November–February).
+   * Heavy traffic is typically observed on business days compared to weekends.
+   * Rush hours on business days usually occur around 7 AM and 4 PM.
+* Weather Indicators:
+   * Heavy traffic is associated with specific weather conditions, including shower snow, light rain, and snow, and proximity thunderstorms with drizzle.
+   * These findings provide valuable insights into the factors influencing traffic patterns on the I-94 Interstate highway.
+   * Understanding these indicators can aid in traffic management and infrastructure planning to improve overall transportation efficiency and safety. <be>
 
 ### Exploring Financial Data using Nasdaq Data Link API 
 **Description:** As part of the project, I utilized Python to extract and clean financial data from the Nasdaq API, conducted trend analysis and comparative studies on metrics such as Accrued Expenses Turnover, and employed Matplotlib to create visualizations for effective presentation of findings, enabling a comprehensive exploration of financial data. <br>
