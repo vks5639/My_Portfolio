@@ -1,5 +1,8 @@
+| [home page](https://vks5639.github.io/My_Portfolio/) | [Portfolio Projects](#portfolio-projects) | [Study Projects](#study-projects) | [Study Projects](#study-projects) | [Certificates](#certificates) | [Contacts](#contacts)
+
 # Vikash Kumar Singh
 ## About me
+<img src="https://i.imgur.com/n5Ez0vv.png" width="300" height="400"> 
 Hello, I'm Vikash Kumar Singh, currently exploring the intersection of technology and business as I pursue my Master of Information Systems Management at Carnegie Mellon University. With a Bachelor's degree in Electronics and Communication Engineering, my academic journey has been rich with diverse coursework ranging from Data Analytics and Statistics to Object-Oriented Programming and A/B Testing.
 
 My professional path has taken me from Infosys Limited, where I contributed significantly as a Test Analyst and Engineer, to impactful academic projects at Carnegie Mellon University. These projects have not only honed my technical skills in Python, Java, and data analytics but also cultivated my expertise in data visualization, cloud-based solutions, and AI-driven technologies.
@@ -50,6 +53,17 @@ This section contains a list of projects with brief descriptions.
 **Hard skills:** Excel, Pivot Tables, Formulas, Functions, Charts, Dashboards, Slices, Pivot Charts.<br>
 **Results:** An analysis of financial data on the sale of Adidas products in the USA for 2020 and 2021 was performed. Reports and dashboard were created. 
 ### Exploring Financial Data using Nasdaq Data Link API 
+**Description:** The main goals of this project are: <br> 1) To clean the dataset from Kaggle about real estate in the United States using SQL, <br>2) Explore data in Bigquery, <br> 3) Group and prepare data for visualization in Power BI, <br> 4) Create comprehensive dashboards, including interactive property stats, the price calculator that can count average prices by given parameters, and a dashboard that shows the quantity of sold properties in different states and the sales distribution among the months in the year for effective data exploration. <br>
+**Data cleaning and exploring SQL:**<a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Data_cleaning.sql">
+  <code>data_cleaning.sql</code></a> <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Exploring_data.sql">
+  <code>data_exploration.sql</code></a><br> 
+**Power BI dashboards:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Real%20Estate%20USA%20Dashboards.pbix">
+  <code>real-estate-dashboards.pbix</code></a> <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Real-Estate%20USA%20Dashboards.pdf">
+  <code>real-estate-dashboards.pdf</code></a><br>
+**Skills:** analytical thinking, data cleaning, data analysis, data vizualization<br>
+**Hard skills:** Bigquery SQL, Power BI, Dashboards <br>
+**Results:** Data was cleaned (which reduced the amount of data by about nine times), explored in Bigquery, imported into Power BI, transformed, and 3 dashboards were created.
+### Analyzing Startup Fundraising Deals from Crunchbase 
 **Description:** The main goals of this project are: <br> 1) To clean the dataset from Kaggle about real estate in the United States using SQL, <br>2) Explore data in Bigquery, <br> 3) Group and prepare data for visualization in Power BI, <br> 4) Create comprehensive dashboards, including interactive property stats, the price calculator that can count average prices by given parameters, and a dashboard that shows the quantity of sold properties in different states and the sales distribution among the months in the year for effective data exploration. <br>
 **Data cleaning and exploring SQL:**<a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Data_cleaning.sql">
   <code>data_cleaning.sql</code></a> <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Exploring_data.sql">
