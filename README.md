@@ -1,10 +1,10 @@
-| [home page](https://vks5639.github.io/My_Portfolio/) | [Portfolio Projects](#portfolio-projects) | [Study Projects](#study-projects) | [Study Projects](#study-projects) | [Certificates](#certificates) | [Contacts](#contacts)
+| [Home page](https://vks5639.github.io/My_Portfolio/) | [Portfolio Projects](#portfolio-projects) | [Study Projects](#study-projects) | [Study Projects](#study-projects) | [Certificates](#certificates) | [Contacts](#contacts)
 
 # Vikash Kumar Singh
 ## About me
 <img src="https://i.imgur.com/n5Ez0vv.png" width="300" height="400"> 
 
-Hello, I'm Vikash Kumar Singh, currently exploring the intersection of technology and business as I pursue my Master of Information Systems Management at Carnegie Mellon University. With a Bachelor's degree in Electronics and Communication Engineering, my academic journey has been rich with diverse coursework ranging from Data Analytics and Statistics to Object-Oriented Programming and A/B Testing.
+Hello, I'm Vikash Kumar Singh, currently exploring the intersection of technology and business as I pursue my Master of Information Systems Management at Carnegie Mellon University. My academic journey has been rich with diverse coursework ranging from Data Analytics and Statistics to Object-Oriented Programming and A/B Testing.
 
 My professional path has taken me from Infosys Limited, where I contributed significantly as a Test Analyst and Engineer, to impactful academic projects at Carnegie Mellon University. These projects have not only honed my technical skills in Python, Java, and data analytics but also cultivated my expertise in data visualization, cloud-based solutions, and AI-driven technologies.
 
