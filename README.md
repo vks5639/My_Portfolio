@@ -93,6 +93,6 @@ This section contains a list of projects with brief descriptions.
 * [Selenium Advance Tester](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Selenium%20Advance%20Tester.pdf) - Infosys
 
 ## Contacts
-* Linkedin: [URL](https://www.linkedin.com/in/vikash-ks/)
+* Linkedin: [https://www.linkedin.com/in/vikash-ks/](https://www.linkedin.com/in/vikash-ks/)
 * Email: vikashsingh5639@gmail.com
 * Phone: 412-844-0218
