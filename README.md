@@ -77,7 +77,7 @@ This section contains a list of projects with brief descriptions.
 **Results:** Data was cleaned (which reduced the amount of data by about nine times), explored in Bigquery, imported into Power BI, transformed, and 3 dashboards were created.
 ## Study Projects
 ### Telling Stories With Data
-**Website:**  (https://vks5639.github.io/TSWD-Portfolio/)
+**Website:** <a href = https://vks5639.github.io/TSWD-Portfolio/>
 **Description:** Welcome to my "Telling Stories With Data" portfolio from Carnegie Mellon University, where I transform complex datasets into clear, engaging narratives through innovative visualizations. My work, including a comprehensive final project, demonstrates my ability to reveal insightful stories hidden within data. If my approach resonates with you, I'd be delighted to explore how my skills can contribute to your team. 
 **Skills:** Python, Pandas, NumPy, Matplotlib, Tableau, Data Analysis, Data Visualization <br>
 **Status:** Completed in 2024
