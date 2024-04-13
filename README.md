@@ -90,4 +90,5 @@ This section contains a list of projects with brief descriptions.
 
 ## Contacts
 * Linkedin: https://www.linkedin.com/in/vikash-ks/
-* Email: vikashsingh5639@gmail.com 
+* Email: vikashsingh5639@gmail.com
+* Phone: 412-844-0218
