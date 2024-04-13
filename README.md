@@ -1,10 +1,14 @@
-# Vikash Kumar Singh - Data Analysis portfolio
+# Vikash Kumar Singh
 ## About me
-Hello everyone! My name is Vikash, and this is my portfolio.<br>
-I love investigating different types of data, discovering insights, and representing it with beautiful visuals.<br>
-I have a background in digital marketing and financial data analysis.<br>
+Hello, I'm Vikash Kumar Singh, currently exploring the intersection of technology and business as I pursue my Master of Information Systems Management at Carnegie Mellon University. With a Bachelor's degree in Electronics and Communication Engineering, my academic journey has been rich with diverse coursework ranging from Data Analytics and Statistics to Object-Oriented Programming and A/B Testing.
 
-You can see more information in my [**CV**](https://github.com/vks5639/My_Portfolio/blob/main/Vikash_Resume.pdf).
+My professional path has taken me from Infosys Limited, where I contributed significantly as a Test Analyst and Engineer, to impactful academic projects at Carnegie Mellon University. These projects have not only honed my technical skills in Python, Java, and data analytics but also cultivated my expertise in data visualization, cloud-based solutions, and AI-driven technologies.
+
+I thrive in roles that challenge me to leverage my analytical skills and technical knowledge to solve complex problems and drive innovation. Through roles in quality assurance and test engineering, I've developed a keen eye for detail and a commitment to excellence, enabling significant improvements in project outcomes and operational efficiency.
+
+I'm keen to connect with fellow tech enthusiasts, professionals, and innovators who are passionate about using technology to drive positive change. Let's explore how we can collaborate to create impactful solutions.
+
+For more information please check my [**Resume**](https://github.com/vks5639/My_Portfolio/blob/main/Vikash_Resume.pdf).
 
 This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
 ## Contents
@@ -16,7 +20,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [Analyzing Startup Fundraising Deals from Crunchbase](#analyzing-startup-fundraising-deals-from-crunchbase)
  
 * [Study Projects](#study-projects)
-  -[Telling Stories With Data](#telling-stories-with-data)
+  - [Telling Stories With Data](#telling-stories-with-data)
 
 * [Certificates](#certificates)
 * [Contacts](#contacts)
