@@ -12,7 +12,7 @@ I thrive in roles that challenge me to leverage my analytical skills and technic
 
 For more information please check my [**Resume**](https://github.com/vks5639/My_Portfolio/blob/main/Vikash_Resume.pdf).
 
-This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
+This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, Tableau, and others).
 ## Contents
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
