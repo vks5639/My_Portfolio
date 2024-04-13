@@ -35,7 +35,7 @@ This section contains a list of projects with brief descriptions.
 **Original dataset:** [ncbi_datasets](https://drive.google.com/file/d/1S2ZDjdRkY78kZxBtc9YNUh0mByTHXQ23/view) <br>
 **Skills:** analytical thinking, data cleaning, data analysis, data vizualization, presentations<br>
 **Hard skills:** MS PowerPoint, Python: Pandas, NumPy, Mathplotlib, Seaborn. <br>
-**Results:** Implemented color-coded HTML format via IPython, addressing issues of precision by highlighting mismatch locations and facilitating classification of insertion, deletion, and substitution types, thereby enhancing clarity and enabling comprehensive analysis of COVID RNA variants.
+**Results:** Identified exact mutation points by finding alignments and mismatches between any two RNA sequences. Color coding resulted in visually differentiating alignments from mismatches, such as insertions, deletions, and substitutions, making it easier to interpret and analyze genetic variations.
 
 ### Finding Heavy Traffic Indicators on I-94
 **Description:** In this analysis, we'll examine data related to traffic heading west on the I-94 Interstate. Our objective is to identify several factors that contribute to congestion on I-94. Potential factors include weather conditions, time of day, and day of the week, among others. <br>
