@@ -85,7 +85,7 @@ This section contains a list of projects with brief descriptions.
 * [Preparing Data in Excel](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Vikash-Kumar-Singh--Preparing-Data-in-Excel.pdf) - Dataquest
 * [Registered Product Owner](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Registered%20Product%20Owner-3988192.pdf) - Scrum Inc.
 * [Agile Developer](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Agile%20Developer.pdf) - Infosys
-* [Python Associate.pdf](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Python%20Associate.pdf) - Infosys
+* [Python Associate](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Python%20Associate.pdf) - Infosys
 * [Selenium Advance Tester](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/Selenium%20Advance%20Tester.pdf) - Infosys
 
 ## Contacts
