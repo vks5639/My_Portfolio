@@ -4,13 +4,11 @@
 ## About me
 <img src="https://i.imgur.com/n5Ez0vv.png" width="300" height="400"> 
 
-Hello, I'm Vikash Kumar Singh, currently exploring the intersection of technology and business as I pursue my Master of Information Systems Management at Carnegie Mellon University. My academic journey has been rich with diverse coursework ranging from Data Analytics and Statistics to Object-Oriented Programming and A/B Testing.
+Hello, I'm Vikash Kumar Singh, currently exploring the intersection of technology and business as I pursue my Master of Information Systems Management at Carnegie Mellon University. My academic endeavors are grounded in a broad spectrum of coursework including Database Management, Data-Focused Python, Statistics and Probability, A/B Testing, Telling Stories with Data and more.
 
-My professional path has taken me from Infosys Limited, where I contributed significantly as a Test Analyst and Engineer, to impactful academic projects at Carnegie Mellon University. These projects have not only honed my technical skills in Python, Java, and data analytics but also cultivated my expertise in data visualization, cloud-based solutions, and AI-driven technologies.
+I currently enhance my practical experience as a Data Analyst at Sustainible, where I manage extensive datasets to aid entrepreneurs in refining their business models. This role, along with my teaching assistantship in Database Management, underscores my passion for applying analytical acumen and technical expertise to solve real-world problems and drive innovation. My professional path has taken me from Infosys Limited, where I contributed significantly as a Test Analyst and Engineer, to impactful academic projects at Carnegie Mellon University. These projects have not only honed my technical skills in Python, Java, and data analytics but also cultivated my expertise in data visualization, cloud-based solutions, and AI-driven technologies.
 
-I thrive in roles that challenge me to leverage my analytical skills and technical knowledge to solve complex problems and drive innovation. Through roles in quality assurance and test engineering, I've developed a keen eye for detail and a commitment to excellence, enabling significant improvements in project outcomes and operational efficiency.
-
-I'm keen to connect with fellow tech enthusiasts, professionals, and innovators who are passionate about using technology to drive positive change. Let's explore how we can collaborate to create impactful solutions.
+I thrive in roles that challenge me to leverage my analytical skills and technical knowledge to solve complex problems and drive innovation. I'm keen to connect with fellow tech enthusiasts, professionals, and innovators who are passionate about using technology to drive positive change. Let's explore how we can collaborate to create impactful solutions.
 
 For more information please check my [**Resume**](https://github.com/vks5639/My_Portfolio/blob/main/Vikash_Resume.pdf).
 
