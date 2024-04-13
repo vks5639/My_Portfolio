@@ -31,17 +31,14 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## Portfolio Projects
 This section contains a list of projects with brief descriptions.
 ### Analyzing COVID RNA Sequences
-**Description:** The main goal of this project is to analyze a dataset scraped from https://www.autoscout24.de containing data in 46405 rows about cars on sale in Germany with production years from 2011 to 2021 using different Python libraries. Find out some interesting information and insights, visualize them, and present them using MS PowerPoint.<br>
+**Description:** In this project, I delve into the RNA sequences of COVID, focusing on two significant variants: Delta and Omicron. RNA, a vital nucleic acid, serves as the genetic blueprint for COVID, facilitating its cellular entry and replication. By leveraging data from the National Institutes of Health (NIH), I dissect the metadata for each COVID RNA sequence to unravel insights into these variants.<br>
 **Code:**<a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German-cars-Analysis.ipynb">
   <code>german-cars-data-analysis.ipynb</code></a><br>
-**Presentation:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German%20cars%20presentation%20Pavel%20Liaoshka.pdf">
-  <code>PDF static version</code></a> <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German%20cars%20presentation%20Pavel%20Liaoshka.pptx">
-  <code>PowerPoint PPTX dynamic version</code></a><br>
 **Original dataset:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/original%20dataset.csv">
   <code>german-cars-dataset.csv</code></a><br>
 **Skills:** analytical thinking, data cleaning, data analysis, data vizualization, presentations<br>
 **Hard skills:** MS PowerPoint, Python: Pandas, NumPy, Mathplotlib, Seaborn. <br>
-**Results:** An analysis of a dataset containing information about cars posted on AutoScaut 24 was conducted. Some insights were found, visualized, and included in the presentation.
+**Results:** Enhanced clarity for identifying sequence alignments and mismatch types. Facilitated comprehensive analysis of COVID RNA variants.
 ### Finding Heavy Traffic Indicators on I-94
 **Description:** The goal of this project is to use Excel functionality to analyze data about Adidas's product sales in the United States, which contain information in 9652 rows and 14 columns for the fiscal years 2020 and 2021. Visualize data, prepare different types of reports and interactive dashboard. <br>
 **Reports and conclusions:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Adidas%20US%20Sales%20Analysis/Adidas%20Sales%20Analysis%20with%20reports.xlsx">
