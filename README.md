@@ -1,4 +1,4 @@
-                                | [Home page](https://vks5639.github.io/My_Portfolio/) | [Portfolio Projects](#portfolio-projects) | [Study Projects](#study-projects) | [Certificates](#certificates) | [Contacts](#contacts)
+| [Home page](https://vks5639.github.io/My_Portfolio/) | [Portfolio Projects](#portfolio-projects) | [Study Projects](#study-projects) | [Certificates](#certificates) | [Contacts](#contacts)
 
 # Vikash Kumar Singh
 ## About me
