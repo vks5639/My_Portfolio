@@ -53,27 +53,26 @@ This section contains a list of projects with brief descriptions.
   * These findings provide valuable insights into the factors influencing traffic patterns on the I-94 Interstate highway.
   * Understanding these indicators can aid in traffic management and infrastructure planning to improve overall transportation efficiency and safety.
 ### Exploring Financial Data using Nasdaq Data Link API 
-**Description:** The main goals of this project are: <br> 1) To clean the dataset from Kaggle about real estate in the United States using SQL, <br>2) Explore data in Bigquery, <br> 3) Group and prepare data for visualization in Power BI, <br> 4) Create comprehensive dashboards, including interactive property stats, the price calculator that can count average prices by given parameters, and a dashboard that shows the quantity of sold properties in different states and the sales distribution among the months in the year for effective data exploration. <br>
-**Data cleaning and exploring SQL:**<a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Data_cleaning.sql">
-  <code>data_cleaning.sql</code></a> <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Exploring_data.sql">
-  <code>data_exploration.sql</code></a><br> 
-**Power BI dashboards:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Real%20Estate%20USA%20Dashboards.pbix">
-  <code>real-estate-dashboards.pbix</code></a> <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Real-Estate%20USA%20Dashboards.pdf">
-  <code>real-estate-dashboards.pdf</code></a><br>
+**Description:** As part of the project, I utilized Python to extract and clean financial data from the Nasdaq API, conducted trend analysis and comparative studies on metrics such as Accrued Expenses Turnover, and employed Matplotlib to create visualizations for effective presentation of findings, enabling a comprehensive exploration of financial data. <br>
+**Code:** [Exploring Financial Data](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/Exploring%20Financial%20Data%20using%20Nasdaq%20Data%20Link%20API.ipynb) <br>
+**Original dataset:** [nasdaq_data](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/nasdaq_data.csv) <br>
 **Skills:** analytical thinking, data cleaning, data analysis, data vizualization<br>
-**Hard skills:** Bigquery SQL, Power BI, Dashboards <br>
-**Results:** Data was cleaned (which reduced the amount of data by about nine times), explored in Bigquery, imported into Power BI, transformed, and 3 dashboards were created.
+**Hard skills:** SQL, Power BI, Dashboards <br>
+**Results:** 
+* Data Extraction & Analysis:
+  * Leveraged Python to extract and clean financial data from Nasdaq API.
+  * Conducted trend analysis and comparative studies on metrics like Accrued Expenses Turnover.
+* Visualization:
+  * Utilized Matplotlib to create visualizations, facilitating effective presentation of findings.
+* Conclusion:
+  * Enabled a detailed exploration of financial data, empowering insights into companies' performance over time.
 ### Analyzing Startup Fundraising Deals from Crunchbase 
-**Description:** The main goals of this project are: <br> 1) To clean the dataset from Kaggle about real estate in the United States using SQL, <br>2) Explore data in Bigquery, <br> 3) Group and prepare data for visualization in Power BI, <br> 4) Create comprehensive dashboards, including interactive property stats, the price calculator that can count average prices by given parameters, and a dashboard that shows the quantity of sold properties in different states and the sales distribution among the months in the year for effective data exploration. <br>
-**Data cleaning and exploring SQL:**<a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Data_cleaning.sql">
-  <code>data_cleaning.sql</code></a> <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Exploring_data.sql">
-  <code>data_exploration.sql</code></a><br> 
-**Power BI dashboards:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Real%20Estate%20USA%20Dashboards.pbix">
-  <code>real-estate-dashboards.pbix</code></a> <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Real-Estate%20USA%20Dashboards.pdf">
-  <code>real-estate-dashboards.pdf</code></a><br>
+**Description:** As part of my project, I undertook an in-depth analysis of startup fundraising deals sourced from Crunchbase.com. Leveraging the techniques acquired in pandas, I thoroughly explored the dataset to unravel trends, patterns, and noteworthy observations within the realm of startup financing. This endeavor not only honed my skills in data analysis but also provided valuable insights into the dynamics of fundraising rounds in the startup ecosystem. <br>
+**Code:** [crunchbase](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/crunchbase.ipynb) <br>
+**Original dataset:** [crunchbase_investments](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/crunchbase-investments.csv) <br>
 **Skills:** analytical thinking, data cleaning, data analysis, data vizualization<br>
-**Hard skills:** Bigquery SQL, Power BI, Dashboards <br>
-**Results:** Data was cleaned (which reduced the amount of data by about nine times), explored in Bigquery, imported into Power BI, transformed, and 3 dashboards were created.
+**Hard skills:** SQL, Power BI, Dashboards <br>
+**Results:** I gained a comprehensive understanding of the startup investments dataset. This exploration paved the way for insightful analysis, where I extracted valuable insights into fundraising rounds and identified notable trends in startup financing.
 ## Study Projects
 ### Telling Stories With Data
 **Website:** [Telling Stories With Data](https://vks5639.github.io/TSWD-Portfolio/) <br>
