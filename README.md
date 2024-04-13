@@ -32,24 +32,26 @@ This repository was created to showcase my analytical and technical skills (Exce
 This section contains a list of projects with brief descriptions.
 ### Analyzing COVID RNA Sequences
 **Description:** In this project, I delve into the RNA sequences of COVID, focusing on two significant variants: Delta and Omicron. RNA, a vital nucleic acid, serves as the genetic blueprint for COVID, facilitating its cellular entry and replication. By leveraging data from the National Institutes of Health (NIH), I dissect the metadata for each COVID RNA sequence to unravel insights into these variants.<br>
-**Code:**<a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German-cars-Analysis.ipynb">
-  <code>german-cars-data-analysis.ipynb</code></a><br>
-**Original dataset:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/original%20dataset.csv">
-  <code>german-cars-dataset.csv</code></a><br>
+**Code:** [covid_genome](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/covid_genome.ipynb) <br>
+**Original dataset:** [ncbi_datasets](https://drive.google.com/file/d/1S2ZDjdRkY78kZxBtc9YNUh0mByTHXQ23/view) <br>
 **Skills:** analytical thinking, data cleaning, data analysis, data vizualization, presentations<br>
 **Hard skills:** MS PowerPoint, Python: Pandas, NumPy, Mathplotlib, Seaborn. <br>
-**Results:** Enhanced clarity for identifying sequence alignments and mismatch types. Facilitated comprehensive analysis of COVID RNA variants.
+**Results:** Implemented color-coded HTML format via IPython, addressing issues of precision by highlighting mismatch locations and facilitating classification of insertion, deletion, and substitution types, thereby enhancing clarity and enabling comprehensive analysis of COVID RNA variants.
 ### Finding Heavy Traffic Indicators on I-94
-**Description:** The goal of this project is to use Excel functionality to analyze data about Adidas's product sales in the United States, which contain information in 9652 rows and 14 columns for the fiscal years 2020 and 2021. Visualize data, prepare different types of reports and interactive dashboard. <br>
-**Reports and conclusions:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Adidas%20US%20Sales%20Analysis/Adidas%20Sales%20Analysis%20with%20reports.xlsx">
-  <code>adidas-sales-data-analysis.xlsx</code></a> <br>
-**Dashboard:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Adidas%20US%20Sales%20Analysis/Dashboard.xlsx">
-  <code>adidas-sales-dashboard.xlsx</code></a> <br>
-**Original dataset:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Adidas%20US%20Sales%20Analysis/Original-dataset.xlsx">
-  <code>adidas-us-sales.xlsx</code></a><br>
+**Description:** In this analysis, we'll examine data related to traffic heading west on the I-94 Interstate. Our objective is to identify several factors that contribute to congestion on I-94. Potential factors include weather conditions, time of day, and day of the week, among others. <br>
+**Code:** [I-94 Traffic](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/i94traffic.ipynb) <br>
+**Original dataset:** [Metro_Interstate_Traffic_Volume](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/Metro_Interstate_Traffic_Volume.csv) <br>
 **Skills:** analytical thinking, data cleaning, data analysis, data vizualization.<br>
 **Hard skills:** Excel, Pivot Tables, Formulas, Functions, Charts, Dashboards, Slices, Pivot Charts.<br>
-**Results:** An analysis of financial data on the sale of Adidas products in the USA for 2020 and 2021 was performed. Reports and dashboard were created. 
+**Results:** In this project, our aim was to identify indicators of heavy traffic on the I-94 Interstate highway. Through our analysis, we identified two main types of indicators:
+* Time Indicators:
+  * Traffic tends to be heavier during warm months (March–October) in contrast to cold months (November–February).
+  * Heavy traffic is typically observed on business days compared to weekends.
+  * Rush hours on business days usually occur around 7 AM and 4 PM.
+* Weather Indicators:
+  * Heavy traffic is associated with specific weather conditions, including shower snow, light rain, and snow, and proximity thunderstorms with drizzle.
+  * These findings provide valuable insights into the factors influencing traffic patterns on the I-94 Interstate highway.
+  * Understanding these indicators can aid in traffic management and infrastructure planning to improve overall transportation efficiency and safety.
 ### Exploring Financial Data using Nasdaq Data Link API 
 **Description:** The main goals of this project are: <br> 1) To clean the dataset from Kaggle about real estate in the United States using SQL, <br>2) Explore data in Bigquery, <br> 3) Group and prepare data for visualization in Power BI, <br> 4) Create comprehensive dashboards, including interactive property stats, the price calculator that can count average prices by given parameters, and a dashboard that shows the quantity of sold properties in different states and the sales distribution among the months in the year for effective data exploration. <br>
 **Data cleaning and exploring SQL:**<a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Real%20Estate%20USA%20data%20SQL%20and%20Power%20BI%20analysis/Data_cleaning.sql">
