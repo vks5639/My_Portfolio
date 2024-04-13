@@ -35,6 +35,7 @@ This section contains a list of projects with brief descriptions.
 **Skills:** analytical thinking, data cleaning, data analysis, data vizualization, presentations<br>
 **Hard skills:** MS PowerPoint, Python: Pandas, NumPy, Mathplotlib, Seaborn. <br>
 **Results:** Implemented color-coded HTML format via IPython, addressing issues of precision by highlighting mismatch locations and facilitating classification of insertion, deletion, and substitution types, thereby enhancing clarity and enabling comprehensive analysis of COVID RNA variants.
+
 ### Finding Heavy Traffic Indicators on I-94
 **Description:** In this analysis, we'll examine data related to traffic heading west on the I-94 Interstate. Our objective is to identify several factors that contribute to congestion on I-94. Potential factors include weather conditions, time of day, and day of the week, among others. <br>
 **Code:** [I-94 Traffic](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/i94traffic.ipynb) <br>
@@ -50,6 +51,7 @@ This section contains a list of projects with brief descriptions.
   * Heavy traffic is associated with specific weather conditions, including shower snow, light rain, and snow, and proximity thunderstorms with drizzle.
   * These findings provide valuable insights into the factors influencing traffic patterns on the I-94 Interstate highway.
   * Understanding these indicators can aid in traffic management and infrastructure planning to improve overall transportation efficiency and safety.
+    
 ### Exploring Financial Data using Nasdaq Data Link API 
 **Description:** As part of the project, I utilized Python to extract and clean financial data from the Nasdaq API, conducted trend analysis and comparative studies on metrics such as Accrued Expenses Turnover, and employed Matplotlib to create visualizations for effective presentation of findings, enabling a comprehensive exploration of financial data. <br>
 **Code:** [Exploring Financial Data](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/Exploring%20Financial%20Data%20using%20Nasdaq%20Data%20Link%20API.ipynb) <br>
@@ -64,6 +66,7 @@ This section contains a list of projects with brief descriptions.
   * Utilized Matplotlib to create visualizations, facilitating effective presentation of findings.
 * Conclusion:
   * Enabled a detailed exploration of financial data, empowering insights into companies' performance over time.
+
 ### Analyzing Startup Fundraising Deals from Crunchbase 
 **Description:** As part of my project, I undertook an in-depth analysis of startup fundraising deals sourced from Crunchbase.com. Leveraging the techniques acquired in pandas, I thoroughly explored the dataset to unravel trends, patterns, and noteworthy observations within the realm of startup financing. This endeavor not only honed my skills in data analysis but also provided valuable insights into the dynamics of fundraising rounds in the startup ecosystem. <br>
 **Code:** [crunchbase](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/crunchbase.ipynb) <br>
