@@ -58,7 +58,7 @@ This section contains a list of projects with brief descriptions.
 **Code:** [Exploring Financial Data](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/Exploring%20Financial%20Data%20using%20Nasdaq%20Data%20Link%20API.ipynb) <br>
 **Original dataset:** [nasdaq_data](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/nasdaq_data.csv) <br>
 **Skills:** analytical thinking, data cleaning, data analysis, data vizualization<br>
-**Hard skills:** SQL, Power BI, Dashboards <br>
+**Hard skills:** Python, Pandas, SQL, Excel, Tableau <br>
 **Results:** 
 * Data Extraction & Analysis:
   * Leveraged Python to extract and clean financial data from Nasdaq API.
@@ -72,8 +72,8 @@ This section contains a list of projects with brief descriptions.
 **Description:** As part of my project, I undertook an in-depth analysis of startup fundraising deals sourced from Crunchbase.com. Leveraging the techniques acquired in pandas, I thoroughly explored the dataset to unravel trends, patterns, and noteworthy observations within the realm of startup financing. This endeavor not only honed my skills in data analysis but also provided valuable insights into the dynamics of fundraising rounds in the startup ecosystem. <br>
 **Code:** [crunchbase](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/crunchbase.ipynb) <br>
 **Original dataset:** [crunchbase_investments](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/crunchbase-investments.csv) <br>
-**Skills:** analytical thinking, data cleaning, data analysis, data vizualization<br>
-**Hard skills:** SQL, Power BI, Dashboards <br>
+**Skills:** exploratory analysis, analytical thinking, , data vizualization<br>
+**Hard skills:** data cleaning, data analysis, Python, Pandas, SQL, Excel, Dashboards <br>
 **Results:** I gained a comprehensive understanding of the startup investments dataset. This exploration paved the way for insightful analysis, where I extracted valuable insights into fundraising rounds and identified notable trends in startup financing.
 ## Study Projects
 ### Telling Stories With Data
