@@ -58,7 +58,7 @@ This section contains a list of projects with brief descriptions.
 **Code:** [Exploring Financial Data](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/Exploring%20Financial%20Data%20using%20Nasdaq%20Data%20Link%20API.ipynb) <br>
 **Original dataset:** [nasdaq_data](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/nasdaq_data.csv) <br>
 **Skills:** analytical thinking, data cleaning, data analysis, data vizualization<br>
-**Hard skills:** Python, Pandas, SQL, Excel, Tableau <br>
+**Hard skills:** Python, Pandas, SQL, Excel <br>
 **Results:** 
 * Data Extraction & Analysis:
   * Leveraged Python to extract and clean financial data from Nasdaq API.
