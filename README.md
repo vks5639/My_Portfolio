@@ -23,6 +23,7 @@ This repository was created to showcase my analytical and technical skills (Exce
  
 * [Study Projects](#study-projects)
   - [Telling Stories With Data](#telling-stories-with-data)
+  - [Window Functions: SQL Analytics for Northwind Traders](#window-functions:-sql-analytics-for-northwind-traders)
 
 * [Certificates](#certificates)
 * [Contacts](#contacts)
@@ -81,6 +82,20 @@ This section contains a list of projects with brief descriptions.
 **Description:** Welcome to my "Telling Stories With Data" portfolio from Carnegie Mellon University, where I transform complex datasets into clear, engaging narratives through innovative visualizations. My work, including a comprehensive final project, demonstrates my ability to reveal insightful stories hidden within data. If my approach resonates with you, I'd be delighted to explore how my skills can contribute to your team. <br>
 **Skills:** Python, Pandas, NumPy, Matplotlib, Tableau, Data Analysis, Data Visualization <br>
 **Status:** Completed in 2024
+
+### Window Functions: SQL Analytics for Northwind Traders
+**Description:** Suppose, I am a Data Analyst at Northwind Traders, an international gourmet food distributor. Management is looking to me for insights to make strategic decisions in several aspects of the business. The projects focus on:
+
+Evaluating employee performance to boost productivity,
+Understanding product sales and category performance to optimize inventory and marketing strategies,
+Analyzing sales growth to identify trends, monitor company progress, and make more accurate forecasts,
+And evaluating customer purchase behavior to target high-value customers with promotional incentives.
+
+Using the PostgreSQL window functions on the Northwind database, I will provide these essential insights to management, contributing significantly to the company's strategic decisions. <br>
+**Code:** [Northwind](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/northwind.ipynb) <br>
+**Original dataset:** [Northwind Database](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/northwind.sql) <br>
+**Skills:** Advanced SQL and Database Management, Analytical and Critical Thinking, Data Manipulation and Analysis
+, Performance Metrics and KPI Development, Sales and Marketing Analytics, Trend Identification and Forecasting, Strategic Decision-Making <br>
 
 ## Certificates
 * [Tableau for Data Scientists](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/CertificateOfCompletion_Tableau%20for%20Data%20Scientists.pdf) - Linkedin Learning
