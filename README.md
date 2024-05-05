@@ -23,7 +23,7 @@ This repository was created to showcase my analytical and technical skills (Exce
  
 * [Study Projects](#study-projects)
   - [Telling Stories With Data](#telling-stories-with-data)
-  - [Window Functions: SQL Analytics for Northwind Traders](#window-functions:-sql-analytics-for-northwind-traders)
+  - [Window Functions SQL Analytics for Northwind Traders](#window-functions-sql-analytics-for-northwind-traders)
 
 * [Certificates](#certificates)
 * [Contacts](#contacts)
@@ -83,7 +83,7 @@ This section contains a list of projects with brief descriptions.
 **Skills:** Python, Pandas, NumPy, Matplotlib, Tableau, Data Analysis, Data Visualization <br>
 **Status:** Completed in 2024
 
-### Window Functions: SQL Analytics for Northwind Traders
+### Window Functions SQL Analytics for Northwind Traders
 **Description:** Suppose, I am a Data Analyst at Northwind Traders, an international gourmet food distributor. Management is looking to me for insights to make strategic decisions in several aspects of the business. The projects focus on:
 
 Evaluating employee performance to boost productivity,
