@@ -95,7 +95,17 @@ Using the PostgreSQL window functions on the Northwind database, I will provide 
 **Code:** [Northwind](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/northwind.ipynb) <br>
 **Original dataset:** [Northwind Database](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/northwind.sql) <br>
 **Skills:** Advanced SQL and Database Management, Analytical and Critical Thinking, Data Manipulation and Analysis
-, Performance Metrics and KPI Development, Sales and Marketing Analytics, Trend Identification and Forecasting, Strategic Decision-Making <br>
+, Performance Metrics and KPI Development, Sales and Marketing Analytics, Trend Identification and Forecasting, Strategic Decision-Making <be>
+
+### Amazon Stock Market Analysis
+**Description:** In the business world, there are few places that generate more daily data than the stock market. Analysts can use this data to explore and explain the past as well as provide insights about the future. But where does one start? Using data visualizations to communicate knowledge and information to make wise data-driven decisions is a valuable skill for any business professional.
+
+In today's business landscape, the stock market churns out massive data daily. My project focuses on mastering data visualization to dissect this information effectively. By creating concise visual representations, I aim to uncover valuable insights for informed decision-making in the dynamic world of finance. <br>
+**Report:** [Final Report](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/northwind.ipynb) <br>
+**Original dataset:** [Amazon Stock Market Data](https://www.kaggle.com/datasets/varpit94/amazon-stock-data?resource=download) <br>
+**Skills:** Excel, Analytical and Critical Thinking, Data Manipulation and Analysis
+, Data Visualization, Marketing Analytics, Trend Identification <br>
+
 
 ## Certificates
 * [Tableau for Data Scientists](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/CertificateOfCompletion_Tableau%20for%20Data%20Scientists.pdf) - Linkedin Learning
