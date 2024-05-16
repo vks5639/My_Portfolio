@@ -24,6 +24,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 * [Study Projects](#study-projects)
   - [Telling Stories With Data](#telling-stories-with-data)
   - [Window Functions SQL Analytics for Northwind Traders](#window-functions-sql-analytics-for-northwind-traders)
+  - [Amazon Stock Market Analysis](#amazon-stock-market-analysis)
 
 * [Certificates](#certificates)
 * [Contacts](#contacts)
@@ -101,7 +102,7 @@ Using the PostgreSQL window functions on the Northwind database, I will provide 
 **Description:** In the business world, there are few places that generate more daily data than the stock market. Analysts can use this data to explore and explain the past as well as provide insights about the future. But where does one start? Using data visualizations to communicate knowledge and information to make wise data-driven decisions is a valuable skill for any business professional.
 
 In today's business landscape, the stock market churns out massive data daily. My project focuses on mastering data visualization to dissect this information effectively. By creating concise visual representations, I aim to uncover valuable insights for informed decision-making in the dynamic world of finance. <br>
-**Report:** [Final Report](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/northwind.ipynb) <br>
+**Report:** [Final Report](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/Amazon%20Stock%20Market%20Analysis.xlsx) <br>
 **Original dataset:** [Amazon Stock Market Data](https://www.kaggle.com/datasets/varpit94/amazon-stock-data?resource=download) <br>
 **Skills:** Excel, Analytical and Critical Thinking, Data Manipulation and Analysis
 , Data Visualization, Marketing Analytics, Trend Identification <br>
