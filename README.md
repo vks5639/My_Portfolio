@@ -25,7 +25,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [Telling Stories With Data](#telling-stories-with-data)
   - [Window Functions SQL Analytics for Northwind Traders](#window-functions-sql-analytics-for-northwind-traders)
   - [Amazon Stock Market Analysis](#amazon-stock-market-analysis)
-  - [Identifying Customers Likely to Churn for a Telecommunications Provider](#identifying_customers_likely_to_churn_for_a_telecommunications_provider)
+  - [Identifying Customers Likely to Churn for a Telecommunications Provider](#identifying-customers-likely-to-churn-for-a-telecommunications-provider)
 
 * [Certificates](#certificates)
 * [Contacts](#contacts)
