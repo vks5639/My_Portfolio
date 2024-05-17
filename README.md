@@ -105,7 +105,22 @@ In today's business landscape, the stock market churns out massive data daily. M
 **Report:** [Final Report](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/Amazon%20Stock%20Market%20Analysis.xlsx) <br>
 **Original dataset:** [Amazon Stock Market Data](https://www.kaggle.com/datasets/varpit94/amazon-stock-data?resource=download) <br>
 **Skills:** Excel, Analytical and Critical Thinking, Data Manipulation and Analysis
+, Data Visualization, Marketing Analytics, Trend Identification <be>
+
+### Identifying Customers Likely to Churn for a Telecommunications Provider
+**Description:** In this project, I will:
+•	Explore the different types of descriptive statistics.
+•	Learn how to identify the appropriate statistic to use in various scenarios.
+•	Apply these statistics to analyze real-world data.
+•	Enhance and support the analysis using suitable visualizations.
+Specifically, I will work with data from a telecommunications provider to identify customers likely to churn. Through detailed exploration and analysis, I will use statistical methods and visual tools to uncover insights about customer behavior.
+Churn Rate=(Number of customers who churned/Total number of customers)∗100
+The above metric can present us with a good overview of the percentage of user churn. As a business, of course, the goal is to minimize churn. <br>
+**Report:** [Final Report](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/Amazon%20Stock%20Market%20Analysis.xlsx) <br>
+**Original dataset:** [Customer Churn Prediction](https://www.kaggle.com/c/customer-churn-prediction-2020/data) <br>
+**Skills:** Excel, Analytical and Critical Thinking, Data Manipulation and Analysis
 , Data Visualization, Marketing Analytics, Trend Identification <br>
+
 
 
 ## Certificates
