@@ -25,6 +25,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [Telling Stories With Data](#telling-stories-with-data)
   - [Window Functions SQL Analytics for Northwind Traders](#window-functions-sql-analytics-for-northwind-traders)
   - [Amazon Stock Market Analysis](#amazon-stock-market-analysis)
+  - [Identifying Customers Likely to Churn for a Telecommunications Provider](#identifying_customers_likely_to_churn_for_a_telecommunications_provider)
 
 * [Certificates](#certificates)
 * [Contacts](#contacts)
@@ -116,7 +117,7 @@ In today's business landscape, the stock market churns out massive data daily. M
 Specifically, I will work with data from a telecommunications provider to identify customers likely to churn. Through detailed exploration and analysis, I will use statistical methods and visual tools to uncover insights about customer behavior.
 Churn Rate=(Number of customers who churned/Total number of customers)∗100
 The above metric can present us with a good overview of the percentage of user churn. As a business, of course, the goal is to minimize churn. <br>
-**Report:** [Final Report](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/Amazon%20Stock%20Market%20Analysis.xlsx) <br>
+**Report:** [Final Report](https://github.com/vks5639/My_Portfolio/blob/main/Portfolio%20Projects/telcom_customer_data.xlsx) <br>
 **Original dataset:** [Customer Churn Prediction](https://www.kaggle.com/c/customer-churn-prediction-2020/data) <br>
 **Skills:** Excel, Analytical and Critical Thinking, Data Manipulation and Analysis
 , Data Visualization, Marketing Analytics, Trend Identification <br>
