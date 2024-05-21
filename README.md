@@ -131,7 +131,7 @@ The above metric can present us with a good overview of the percentage of user c
 **Description:** In this project, I acted as an analyst for a chain of retail stores to study sales performance over the past few years. I prepared and profiled the data using VLOOKUP() and other Excel functions, then used PivotTables to aggregate and reshape the data to answer key questions. I conducted variance and trend analyses to identify strong-performing years and categories, and utilized statistical methods to analyze average order values. Using What-If Analysis tools, I helped management plan for various scenarios. My findings revealed that Q4 is the most profitable period, prompting further investigation into specific categories and months driving these profits. The project concluded with a comprehensive report in Excel, providing actionable insights and recommendations for strategic planning.
 
 **Report:** [Final Report]() <br>
-**Original dataset:** [Retail Sales]() <br>
+**Original dataset:** [Retail Sales](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) <br>
 **Skills:** Data preparation and cleaning, Data analysis and profiling using PivotTables, Variance and trend analysis, Statistical analysis of KPIs, What-If scenario planning, Generating actionable insights, and Creating comprehensive Excel reports. <br>
 
 ## Certificates
