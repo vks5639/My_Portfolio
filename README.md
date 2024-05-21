@@ -110,10 +110,15 @@ In today's business landscape, the stock market churns out massive data daily. M
 
 ### Identifying Customers Likely to Churn for a Telecommunications Provider
 **Description:** In this project, I will:
+
 •	Explore the different types of descriptive statistics.
+
 •	Learn how to identify the appropriate statistic to use in various scenarios.
+
 •	Apply these statistics to analyze real-world data.
+
 •	Enhance and support the analysis using suitable visualizations.
+
 Specifically, I will work with data from a telecommunications provider to identify customers likely to churn. Through detailed exploration and analysis, I will use statistical methods and visual tools to uncover insights about customer behavior.
 Churn Rate=(Number of customers who churned/Total number of customers)∗100
 The above metric can present us with a good overview of the percentage of user churn. As a business, of course, the goal is to minimize churn. <br>
@@ -122,7 +127,12 @@ The above metric can present us with a good overview of the percentage of user c
 **Skills:** Excel, Analytical and Critical Thinking, Data Manipulation and Analysis
 , Data Visualization, Marketing Analytics, Trend Identification <br>
 
+### Analyzing Retail Sales
+**Description:** In this project, I acted as an analyst for a chain of retail stores to study sales performance over the past few years. I prepared and profiled the data using VLOOKUP() and other Excel functions, then used PivotTables to aggregate and reshape the data to answer key questions. I conducted variance and trend analyses to identify strong-performing years and categories, and utilized statistical methods to analyze average order values. Using What-If Analysis tools, I helped management plan for various scenarios. My findings revealed that Q4 is the most profitable period, prompting further investigation into specific categories and months driving these profits. The project concluded with a comprehensive report in Excel, providing actionable insights and recommendations for strategic planning.
 
+**Report:** [Final Report]() <br>
+**Original dataset:** [Retail Sales]() <br>
+**Skills:** Data preparation and cleaning, Data analysis and profiling using PivotTables, Variance and trend analysis, Statistical analysis of KPIs, What-If scenario planning, Generating actionable insights, and Creating comprehensive Excel reports. <br>
 
 ## Certificates
 * [Tableau for Data Scientists](https://github.com/vks5639/My_Portfolio/blob/main/Certificates/CertificateOfCompletion_Tableau%20for%20Data%20Scientists.pdf) - Linkedin Learning
